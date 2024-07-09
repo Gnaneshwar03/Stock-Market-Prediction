@@ -22,6 +22,3 @@ To run the code in this repository, the following dependencies need to be instal
 
 4. Visualization and Evaluation: The code loads the best weights obtained during training and uses the trained model to make predictions on the test set. The predictions and actual values are then scaled back to their original scale. The results are visualized through line graphs using `plotly`. Additionally, the code predicts the stock prices on the entire dataset and visualizes the predictions on the entire data.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
